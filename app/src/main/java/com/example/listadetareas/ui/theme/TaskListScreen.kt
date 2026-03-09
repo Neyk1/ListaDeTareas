@@ -1,4 +1,4 @@
-package com.example.listadetareas.ui.theme.screen.TaskListScreen
+package com.example.listadetareas.ui.theme
 
 import com.example.listadetareas.domain.Task
 
